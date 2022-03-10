@@ -1,7 +1,7 @@
 # REPROsheep2.0_ABM 
 Script of the agent-based model(ABM) described by  Laclef et al. (2022) in the article entitled "Alternative hormone free reproduction management of a dairy sheep flock disrupts the farm’s annual feeding system calendar and its associated strategies"  
 
-This agent-based dairy sheep flock model was implemented with the GAMA software(version 1.8.1).
+This agent-based dairy sheep flock model was implemented with the GAMA software (V1.8.0) http://gama-platform.org.
 
 # Purpose
 The REPROsheep2.0 model was designed to represent the reproductive and productive dynamics in a dairy sheep flock managed with or without hormonal treatments
